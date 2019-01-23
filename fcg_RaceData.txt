@@ -1,0 +1,5 @@
+Races 4
+1 Human,Y,5,110
+2 Nord,Y,6,90
+3 Elf,Y,7,300
+4 Robot,N,8,1000

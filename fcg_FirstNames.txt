@@ -1,0 +1,34 @@
+Human_male 4
+1 Mark
+2 John
+3 Thomas
+4 Jacob
+-----
+Human_female 3
+1 Mary
+2 Hannah
+3 Ashley
+-----
+Nord_male 3
+1 Ysgramor
+2 Brynjolf
+3 Kjenik
+-----
+Nord_female 4
+1 Aela
+2 Lydia
+3 Dibella
+4 Hellen
+-----
+Elf_male 2
+1 Legolas
+2 Buddy
+-----
+Elf_female 1
+1 Medora
+-----
+Robot_genderless 3
+1 Metagross
+2 Porygon
+3 Iron Giant
+-----

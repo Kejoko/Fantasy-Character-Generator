@@ -1,0 +1,90 @@
+Human_male_upper 4
+1 Duke 
+2 King 
+3 Jarl 
+4 High King 
+-----
+Human_male_middle 3
+1 Sir 
+2 Mr 
+3 Dr 
+-----
+Human_male_lower 1
+1 Beggar 
+-----
+Human_female_upper 3
+1 Dutchess 
+2 Queen 
+3 Jarl 
+-----
+Human_female_middle 3
+1 Lady 
+2 Mrs 
+3 Ms 
+-----
+Human_female_lower 1
+1 Beggar 
+-----
+Nord_male_upper 4
+1 Duke 
+2 Jarl 
+3 King 
+4 High King 
+-----
+Nord_male_middle 3
+1 Sir 
+2 Mr 
+3 Dr 
+-----
+Nord_male_lower 1
+1 Beggar 
+-----
+Nord_female_upper 3
+1 Dutchess 
+2 Queen 
+3 Jarl 
+-----
+Nord_female_middle 3
+1 Lady 
+2 Mrs 
+3 Ms 
+-----
+Nord_female_lower 1
+1 Beggar 
+-----
+Elf_male_upper 4
+1 Prophet 
+2 Grand Wizard
+3 King 
+4 Jarl 
+-----
+Elf_male_middle 4
+1 Court Wizard 
+2 Mr 
+3 Dr 
+4 Sir 
+-----
+Elf_male_lower 1
+1 Beggar 
+-----
+Elf_female_upper 3
+1 Queen 
+2 Prophet 
+3 Dutchess 
+-----
+Elf_female_middle 2
+1 Lady 
+2 Dutchess 
+-----
+Elf_female_lower 1
+1 Beggar 
+-----
+Robot_genderless_upper 1
+1 Polished
+-----
+Robot_genderless_middle 1
+1 Steel
+-----
+Robot_genderless_lower 1
+1 Rough
+-----

@@ -1,0 +1,17 @@
+Human_ 4
+1 Smith
+2 Adams
+3 Paul
+4 Richards
+-----
+Nord_ 3
+1 Greymane
+2 Battleborn
+3 Shatter-Shield
+-----
+Elf_ 2
+1 Rilis
+2 Elsinor
+-----
+Robot_ 1
+1 Beep Boop
