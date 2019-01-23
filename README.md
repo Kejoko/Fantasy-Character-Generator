@@ -7,7 +7,7 @@ Features:
 - Age
 - Height
 
-To DO:
+To Do:
 - Social/economic class
 - Job/occupation
 - Titles (Sir, Lord, Dr.)
